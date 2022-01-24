@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working at [Ton](https://www.ton.com.br/)
 
-- 🌱 I’m currently learning **Elixir**
+- 🌱 I’m currently learning **Clojure**, **Algorithms** and **SoftSkills**
 
 - 👯 I’m looking to collaborate with [Software Developing at Ton](https://www.ton.com.br/)
-
-- 🤝 I’m looking for help with **Elixir**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/augusto-jm-amaral)
 
